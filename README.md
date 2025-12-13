@@ -6,9 +6,7 @@
 
 ### 🚀 About Me
 
-* 🎓 I’m a [Your current status - e.g., recent graduate, self-taught learner, professional] with [Number] years of experience in [Your main field].
-* 💡 I’m currently diving deeper into **[Specific Technology/Framework]** and **[Another Specific Technology/Concept]**.
-* 🌱 I’m looking to collaborate on projects related to **[Type of Project 1]** and **[Type of Project 2]**.
+* 💡 I’m currently diving deeper into **Machine Learning and AI with python** and **[Another Specific Technology/Concept]**.
 * ❓ Ask me about: **Python scripting, Machine Learning, AI**.
 * 📫 How to reach me: **ronalbatch11@gmail.com**
 * ⚡ Fun fact: **I'm not good at vibe coding**
