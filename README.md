@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-* 💡 I’m currently diving deeper into **Machine Learning and AI with python** and **[Another Specific Technology/Concept]**.
+* 💡 I’m currently diving deeper into **Machine Learning and AI with python**.
 * ❓ Ask me about: **Python scripting, Machine Learning, AI**.
 * 📫 How to reach me: **ronaldbatch11@gmail.com**
 * ⚡ Fun fact: **I'm not good at vibe coding**
