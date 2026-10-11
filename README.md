@@ -22,10 +22,7 @@
 | **Cloud & DevOps** | [e.g., AWS, Docker, Kubernetes, Terraform, CI/CD] |
 | **Tools & OS** | [e.g., Git, VS Code, Linux, Figma] |
 
----
 
 
 
-### 📈 GitHub Stats
 
-You can add dynamic badges for a cool visual effect!
